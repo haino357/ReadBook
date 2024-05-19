@@ -5,3 +5,7 @@
 
 ## 読了本
 1. [世界は経営でできている](https://github.com/haino357/ReadBook/issues/8)
+
+## 本スレッド
+X：https://x.com/hai_haino/status/1792090163050647675
+ハッシュタグ：#ハイノ読書
