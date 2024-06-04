@@ -1,7 +1,7 @@
 ---
 name: ReadBookIssue
 about: Read book template
-title:  "ReadBook"
+title:  ""
 labels: ''
 projects: ''
 assignees: '@haino357'
