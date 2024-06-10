@@ -1,4 +1,9 @@
 # ReadBook
+## How to use
+- Issueに読書中、読了本を記録していくリポジトリです。
+- 書籍ごとに目的を明確にする
+- 読了後に[読書メーター](https://bookmeter.com/home)に記録する
+
 ## 読書中
 1. [GitLabに学ぶ 世界最先端のリモート組織のつくりかた ドキュメントの活用でオフィスなしでも最大の成果を出すグローバル企業のしくみ](https://github.com/haino357/ReadBook/issues/9)
 2. [ブルシット・ジョブの謎　クソどうでもいい仕事はなぜ増えるか](https://github.com/haino357/ReadBook/issues/13)
