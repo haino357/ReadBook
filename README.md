@@ -4,6 +4,12 @@
 - 書籍ごとに目的を明確にする
 - 読了後に[読書メーター](https://bookmeter.com/home)に記録する
 
+## 積読リスト
+1. [Webを支える技術 ―― HTTP，URI，HTML，そしてREST WEB+DB PRESS plus](https://github.com/haino357/ReadBook/issues/15)
+2. [スタッフエンジニア　マネジメントを超えるリーダーシップ](https://github.com/haino357/ReadBook/issues/10)
+3. [Linuxで動かしながら学ぶTCP/IPネットワーク入門](https://github.com/haino357/ReadBook/issues/7)
+4. [「正しさ」の商人　情報災害を広める風評加害者は誰か](https://github.com/haino357/ReadBook/issues/16)
+
 ## 読書中
 1. [GitLabに学ぶ 世界最先端のリモート組織のつくりかた ドキュメントの活用でオフィスなしでも最大の成果を出すグローバル企業のしくみ](https://github.com/haino357/ReadBook/issues/9)
 2. [ブルシット・ジョブの謎　クソどうでもいい仕事はなぜ増えるか](https://github.com/haino357/ReadBook/issues/13)
