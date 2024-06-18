@@ -13,6 +13,7 @@
 ## 読書中
 1. [GitLabに学ぶ 世界最先端のリモート組織のつくりかた ドキュメントの活用でオフィスなしでも最大の成果を出すグローバル企業のしくみ](https://github.com/haino357/ReadBook/issues/9)
 2. [ブルシット・ジョブの謎　クソどうでもいい仕事はなぜ増えるか](https://github.com/haino357/ReadBook/issues/13)
+3. [世界一流エンジニアの思考法](https://github.com/haino357/ReadBook/issues/17)
 
 ## 読了本
 1. [世界は経営でできている](https://github.com/haino357/ReadBook/issues/8)
