@@ -17,7 +17,7 @@
 2. [ブルシット・ジョブの謎　クソどうでもいい仕事はなぜ増えるか](https://github.com/haino357/ReadBook/issues/13)
 3. [生成AIで世界はこう変わ](https://github.com/haino357/ReadBook/issues/18)
 4. [改訂3版JavaScript本格入門　～モダンスタイルによる基礎から現場での応用まで](https://github.com/haino357/ReadBook/issues/19)
-5. []()
+5. [フローとストック 世界の先が読める「思考」と「知識」の法則](https://github.com/haino357/ReadBook/issues/21)
 
 ## 読了本
 1. [世界は経営でできている](https://github.com/haino357/ReadBook/issues/8)
