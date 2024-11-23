@@ -5,20 +5,18 @@
 - 読了後に[読書メーター](https://bookmeter.com/home)に記録する
 
 ## 積読リスト
-1. [スタッフエンジニア　マネジメントを超えるリーダーシップ](https://github.com/haino357/ReadBook/issues/10)
-2. [Linuxで動かしながら学ぶTCP/IPネットワーク入門](https://github.com/haino357/ReadBook/issues/7)
-3. [「正しさ」の商人　情報災害を広める風評加害者は誰か](https://github.com/haino357/ReadBook/issues/16)
-4. [1984](https://github.com/haino357/ReadBook/issues/20)
-5. [Linuxで動かしながら学ぶTCP/IPネットワーク入門](https://github.com/haino357/ReadBook/issues/7)
-6. 
+1. [Linuxで動かしながら学ぶTCP/IPネットワーク入門](https://github.com/haino357/ReadBook/issues/7)
+2. [「正しさ」の商人　情報災害を広める風評加害者は誰か](https://github.com/haino357/ReadBook/issues/16)
+3. [1984](https://github.com/haino357/ReadBook/issues/20)
+4. [Linuxで動かしながら学ぶTCP/IPネットワーク入門](https://github.com/haino357/ReadBook/issues/7)
+5. 
 
 ## 読書中
 1. [Webを支える技術 ―― HTTP，URI，HTML，そしてREST WEB+DB PRESS plus](https://github.com/haino357/ReadBook/issues/15)
 2. [ブルシット・ジョブの謎　クソどうでもいい仕事はなぜ増えるか](https://github.com/haino357/ReadBook/issues/13)
 3. [改訂3版JavaScript本格入門　～モダンスタイルによる基礎から現場での応用まで](https://github.com/haino357/ReadBook/issues/19)
-4. [検索から生成へ 生成AIによるパラダイムシフトの行方](https://github.com/haino357/ReadBook/issues/22)
-5. [FULL POWER 科学が証明した自分を変える最強戦略](https://github.com/haino357/ReadBook/issues/23)
-6. 
+4. [スタッフエンジニア　マネジメントを超えるリーダーシップ](https://github.com/haino357/ReadBook/issues/10)
+5. 
 
 ## 読了本
 1. [世界は経営でできている](https://github.com/haino357/ReadBook/issues/8)
@@ -28,6 +26,9 @@
 5. [GitLabに学ぶ 世界最先端のリモート組織のつくりかた ドキュメントの活用でオフィスなしでも最大の成果を出すグローバル企業のしくみ](https://github.com/haino357/ReadBook/issues/9)
 6. [生成AIで世界はこう変わ](https://github.com/haino357/ReadBook/issues/18)
 7. [フローとストック 世界の先が読める「思考」と「知識」の法則](https://github.com/haino357/ReadBook/issues/21)
+8. [FULL POWER 科学が証明した自分を変える最強戦略](https://github.com/haino357/ReadBook/issues/23)
+9. [検索から生成へ 生成AIによるパラダイムシフトの行方](https://github.com/haino357/ReadBook/issues/22)
+10. 
 
 ## 本スレッド
 X：https://x.com/hai_haino/status/1792090163050647675
