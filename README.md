@@ -15,7 +15,7 @@
 1. [Webを支える技術 ―― HTTP，URI，HTML，そしてREST WEB+DB PRESS plus](https://github.com/haino357/ReadBook/issues/15)
 2. [ブルシット・ジョブの謎　クソどうでもいい仕事はなぜ増えるか](https://github.com/haino357/ReadBook/issues/13)
 3. [改訂3版JavaScript本格入門　～モダンスタイルによる基礎から現場での応用まで](https://github.com/haino357/ReadBook/issues/19)
-4. [スタッフエンジニア　マネジメントを超えるリーダーシップ](https://github.com/haino357/ReadBook/issues/10)
+4. [世界史の構造的理解 現代の「見えない皇帝」と日本の武器](https://github.com/haino357/ReadBook/issues/25)
 5. 
 
 ## 読了本
@@ -28,7 +28,9 @@
 7. [フローとストック 世界の先が読める「思考」と「知識」の法則](https://github.com/haino357/ReadBook/issues/21)
 8. [FULL POWER 科学が証明した自分を変える最強戦略](https://github.com/haino357/ReadBook/issues/23)
 9. [検索から生成へ 生成AIによるパラダイムシフトの行方](https://github.com/haino357/ReadBook/issues/22)
-10. 
+10. [スタッフエンジニア　マネジメントを超えるリーダーシップ](https://github.com/haino357/ReadBook/issues/10)
+11. [ロングゲーム 今、自分にとっていちばん意味のあることをするために](https://amzn.asia/d/0RE3kOL)
+12. 
 
 ## 本スレッド
 X：https://x.com/hai_haino/status/1792090163050647675
