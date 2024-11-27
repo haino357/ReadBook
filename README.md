@@ -9,16 +9,18 @@
 2. [「正しさ」の商人　情報災害を広める風評加害者は誰か](https://github.com/haino357/ReadBook/issues/16)
 3. [1984](https://github.com/haino357/ReadBook/issues/20)
 4. [Linuxで動かしながら学ぶTCP/IPネットワーク入門](https://github.com/haino357/ReadBook/issues/7)
-5. 
+5. [RANGE（レンジ）　知識の「幅」が最強の武器になる](https://github.com/haino357/ReadBook/issues/26)
+6. []()
 
-## 読書中
+## 読書中リスト
 1. [Webを支える技術 ―― HTTP，URI，HTML，そしてREST WEB+DB PRESS plus](https://github.com/haino357/ReadBook/issues/15)
 2. [ブルシット・ジョブの謎　クソどうでもいい仕事はなぜ増えるか](https://github.com/haino357/ReadBook/issues/13)
 3. [改訂3版JavaScript本格入門　～モダンスタイルによる基礎から現場での応用まで](https://github.com/haino357/ReadBook/issues/19)
 4. [世界史の構造的理解 現代の「見えない皇帝」と日本の武器](https://github.com/haino357/ReadBook/issues/25)
-5. 
+5. [プロ投資家の先の先を読む思考法](https://github.com/haino357/ReadBook/issues/27)
+6. []()
 
-## 読了本
+## 読了本リスト
 1. [世界は経営でできている](https://github.com/haino357/ReadBook/issues/8)
 2. [高級ビールで日本を変える](https://github.com/haino357/ReadBook/issues/11)
 3. [「すぐやる人」のノート術](https://github.com/haino357/ReadBook/issues/14)
