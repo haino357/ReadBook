@@ -10,7 +10,8 @@
 3. [1984](https://github.com/haino357/ReadBook/issues/20)
 4. [Linuxで動かしながら学ぶTCP/IPネットワーク入門](https://github.com/haino357/ReadBook/issues/7)
 5. [RANGE（レンジ）　知識の「幅」が最強の武器になる](https://github.com/haino357/ReadBook/issues/26)
-6. []()
+6. [イノベーションの競争戦略―優れたイノベーターは０→１か？　横取りか？](https://github.com/haino357/ReadBook/issues/28)
+7. []()
 
 ## 読書中リスト
 1. [Webを支える技術 ―― HTTP，URI，HTML，そしてREST WEB+DB PRESS plus](https://github.com/haino357/ReadBook/issues/15)
