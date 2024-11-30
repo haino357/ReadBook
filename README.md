@@ -18,7 +18,8 @@
 2. [ブルシット・ジョブの謎　クソどうでもいい仕事はなぜ増えるか](https://github.com/haino357/ReadBook/issues/13)
 3. [改訂3版JavaScript本格入門　～モダンスタイルによる基礎から現場での応用まで](https://github.com/haino357/ReadBook/issues/19)
 4. [プロ投資家の先の先を読む思考法](https://github.com/haino357/ReadBook/issues/27)
-5. []()
+5. [10倍成長 2倍より10倍が簡単だ](https://github.com/haino357/ReadBook/issues/29)
+6. []()
 
 ## 読了本リスト
 1. [世界は経営でできている](https://github.com/haino357/ReadBook/issues/8)
