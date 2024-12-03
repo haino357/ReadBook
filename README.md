@@ -16,9 +16,8 @@
 ## 読書中リスト
 1. [ブルシット・ジョブの謎　クソどうでもいい仕事はなぜ増えるか](https://github.com/haino357/ReadBook/issues/13)
 2. [改訂3版JavaScript本格入門　～モダンスタイルによる基礎から現場での応用まで](https://github.com/haino357/ReadBook/issues/19)
-3. [10倍成長 2倍より10倍が簡単だ](https://github.com/haino357/ReadBook/issues/29)
-4. [AIファースト・カンパニー――アルゴリズムとネットワークが経済を支配する新時代の経営戦略](https://github.com/haino357/ReadBook/issues/30)
-5. []()
+3. [AIファースト・カンパニー――アルゴリズムとネットワークが経済を支配する新時代の経営戦略](https://github.com/haino357/ReadBook/issues/30)
+4. []()
 
 ## 読了本リスト
 1. [世界は経営でできている](https://github.com/haino357/ReadBook/issues/8)
@@ -35,7 +34,8 @@
 12. [世界史の構造的理解 現代の「見えない皇帝」と日本の武器](https://github.com/haino357/ReadBook/issues/25)
 13. [プロ投資家の先の先を読む思考法](https://github.com/haino357/ReadBook/issues/27)
 14. [Webを支える技術 ―― HTTP，URI，HTML，そしてREST WEB+DB PRESS plus](https://github.com/haino357/ReadBook/issues/15)
-15. 
+15. [10倍成長 2倍より10倍が簡単だ](https://github.com/haino357/ReadBook/issues/29)
+16. 
 
 ## 本スレッド
 X：https://x.com/hai_haino/status/1792090163050647675
