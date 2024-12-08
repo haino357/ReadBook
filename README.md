@@ -10,16 +10,16 @@
 3. [1984](https://github.com/haino357/ReadBook/issues/20)
 4. [Linuxで動かしながら学ぶTCP/IPネットワーク入門](https://github.com/haino357/ReadBook/issues/7)
 5. [RANGE（レンジ）　知識の「幅」が最強の武器になる](https://github.com/haino357/ReadBook/issues/26)
-6. [イノベーションの競争戦略―優れたイノベーターは０→１か？　横取りか？](https://github.com/haino357/ReadBook/issues/28)
-7. [良いコード／悪いコードで学ぶ設計入門―保守しやすい　成長し続けるコードの書き方](https://github.com/haino357/ReadBook/issues/35)
-8. []()
+6. [良いコード／悪いコードで学ぶ設計入門―保守しやすい　成長し続けるコードの書き方](https://github.com/haino357/ReadBook/issues/35)
+7. []()
 
 ## 読書中リスト
 1. [ブルシット・ジョブの謎　クソどうでもいい仕事はなぜ増えるか](https://github.com/haino357/ReadBook/issues/13)
 2. [改訂3版JavaScript本格入門　～モダンスタイルによる基礎から現場での応用まで](https://github.com/haino357/ReadBook/issues/19)
 3. [AIファースト・カンパニー――アルゴリズムとネットワークが経済を支配する新時代の経営戦略](https://github.com/haino357/ReadBook/issues/30)
 4. [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則](https://github.com/haino357/ReadBook/issues/34)
-5. []()
+5. [イノベーションの競争戦略―優れたイノベーターは０→１か？　横取りか？](https://github.com/haino357/ReadBook/issues/28)
+6. []()
 
 ## 読了本リスト
 1. [世界は経営でできている](https://github.com/haino357/ReadBook/issues/8)
