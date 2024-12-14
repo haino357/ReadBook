@@ -14,12 +14,11 @@
 7. []()
 
 ## 読書中リスト
-1. [ブルシット・ジョブの謎　クソどうでもいい仕事はなぜ増えるか](https://github.com/haino357/ReadBook/issues/13)
-2. [改訂3版JavaScript本格入門　～モダンスタイルによる基礎から現場での応用まで](https://github.com/haino357/ReadBook/issues/19)
-3. [AIファースト・カンパニー――アルゴリズムとネットワークが経済を支配する新時代の経営戦略](https://github.com/haino357/ReadBook/issues/30)
-4. [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則](https://github.com/haino357/ReadBook/issues/34)
-5. [イノベーションの競争戦略―優れたイノベーターは０→１か？　横取りか？](https://github.com/haino357/ReadBook/issues/28)
-6. []()
+1. [改訂3版JavaScript本格入門　～モダンスタイルによる基礎から現場での応用まで](https://github.com/haino357/ReadBook/issues/19)
+2. [AIファースト・カンパニー――アルゴリズムとネットワークが経済を支配する新時代の経営戦略](https://github.com/haino357/ReadBook/issues/30)
+3. [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則](https://github.com/haino357/ReadBook/issues/34)
+4. [イノベーションの競争戦略―優れたイノベーターは０→１か？　横取りか？](https://github.com/haino357/ReadBook/issues/28)
+5. []()
 
 ## 読了本リスト
 1. [世界は経営でできている](https://github.com/haino357/ReadBook/issues/8)
@@ -38,7 +37,8 @@
 14. [Webを支える技術 ―― HTTP，URI，HTML，そしてREST WEB+DB PRESS plus](https://github.com/haino357/ReadBook/issues/15)
 15. [10倍成長 2倍より10倍が簡単だ](https://github.com/haino357/ReadBook/issues/29)
 16. [経済評論家の父から息子への手紙 お金と人生と幸せについて](https://github.com/haino357/ReadBook/issues/33)
-17. 
+17. [ブルシット・ジョブの謎　クソどうでもいい仕事はなぜ増えるか](https://github.com/haino357/ReadBook/issues/13)
+18. []()
 
 ## 本スレッド
 X：https://x.com/hai_haino/status/1792090163050647675
