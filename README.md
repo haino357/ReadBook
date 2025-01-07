@@ -18,7 +18,8 @@
 2. [AIファースト・カンパニー――アルゴリズムとネットワークが経済を支配する新時代の経営戦略](https://github.com/haino357/ReadBook/issues/30)
 3. [プリンシプル オブ プログラミング 3年目までに身につけたい 一生役立つ101の原理原則](https://github.com/haino357/ReadBook/issues/34)
 4. [イノベーションの競争戦略―優れたイノベーターは０→１か？　横取りか？](https://github.com/haino357/ReadBook/issues/28)
-5. []()
+5. [ＧＩＶＥ ＆ ＴＡＫＥ「与える人」こそ成功する時代](https://github.com/haino357/ReadBook/issues/36)
+6. 
 
 ## 読了本リスト
 1. [世界は経営でできている](https://github.com/haino357/ReadBook/issues/8)
